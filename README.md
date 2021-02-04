@@ -22,5 +22,5 @@ PHP works with the data(*name-value pairs*) in the **HTTP GET or POST Request** 
 
 ?>
 ```
-Code inside the PHP block will be executed and the output from the code block will be insrted in the HTML page being returned.  The server returns HTML to the browser.
+Code inside the PHP block will be executed and the output from the code block will be insrted in the HTML page being returned.  The server returns HTML to the browser. HTML pages with embedded PHP blocks must have a **.php** file extension instead of **.html**.
 
